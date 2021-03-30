@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Widget Shop - Zettle Integration</string>
+    <string name="shopping_cart_text">Shopping Cart</string>
+    <string name="check_out_button_text">CHECK OUT</string>
 </resources>
