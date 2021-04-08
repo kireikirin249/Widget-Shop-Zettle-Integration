@@ -11,4 +11,7 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="redirect_url_host">"transactionsSDK"</string>
+    <string name="redirect_url_scheme">"widgetshop"</string>
+    <string name="client_id">"7bb78fe2-15ec-4d5e-b946-92aad39bc053"</string>
 </resources>

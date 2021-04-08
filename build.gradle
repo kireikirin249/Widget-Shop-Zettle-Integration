@@ -11,8 +11,8 @@ buildscript {
 
     ext.iZettleSDK.githubAccessToken = "0095c7af3c0298d0f17cd26784705bd6852c25d2"
     ext.iZettleSDK.clientId = "7bb78fe2-15ec-4d5e-b946-92aad39bc053"
-    ext.iZettleSDK.redirectUrlScheme = "com.example.widgetshop_zettleintegration"
-    ext.iZettleSDK.redirectUrlHost = "BuildConfig.widgetshop_zettleintegration://zettleauthgo"
+    ext.iZettleSDK.redirectUrlScheme = "widgetshop"
+    ext.iZettleSDK.redirectUrlHost = "transactionsSDK"
 
     repositories {
         google()
